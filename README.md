@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm vluv99</h1>
-<h3 align="center">A passionate fullstack developer from Hungary.</h3>
+<h1 align="center">Welcome to My GitHub!</h1>
+<p align="left">
+  <b>Hello there!</b> 👋 <br>
+  I'm vluv99, a passionate developer interested in React, web development, and UX design. <br>
+  This GitHub repository is a collection of my projects, experiments, and contributions to the open-source community.
+</p>
+
+<h3 align="left">About me:</h3>
 
 - 🔭 I’m currently working on [Denarius](https://github.com/vluv99/Denarius) - <i>Manage your finances easily and conveniently. Keep track of and share household expenses with your family.</i>
 
